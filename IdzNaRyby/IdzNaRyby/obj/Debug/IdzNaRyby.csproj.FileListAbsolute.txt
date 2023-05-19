@@ -1,0 +1,10 @@
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\bin\Debug\IdzNaRyby.exe.config
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\bin\Debug\IdzNaRyby.exe
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\bin\Debug\IdzNaRyby.pdb
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.csprojAssemblyReference.cache
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.Form1.resources
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.Properties.Resources.resources
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.csproj.GenerateResource.cache
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.csproj.CoreCompileInputs.cache
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.exe
+C:\Users\bacze\source\repos\IdzNaRyby\IdzNaRyby\obj\Debug\IdzNaRyby.pdb
